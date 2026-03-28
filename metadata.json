@@ -1,0 +1,7 @@
+{
+  "name": "VoltSnap",
+  "description": "Energy Intelligence: Get hyper-personalized electricity bill estimates by snapping photos of your appliances and compare Singapore's top electricity providers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
